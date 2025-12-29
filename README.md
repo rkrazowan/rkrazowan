@@ -1,6 +1,4 @@
-
-
-
+![logo](https://github.com/rkrazowan/rkrazowan/blob/main/Blue%20Modern%20Professional%20Digital%20Marketing%20Background%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Razowan Kabir</h1>
 <h3 align="center">Electrical & Electronic Engineer | Research-Oriented | Aspiring Graduate Researcher</h3>
 <img align="right" alt="Robotics Engineering" width ="400" src = "https://www.shutterstock.com/shutterstock/videos/3947134363/thumb/1.jpg?ip=x480">
