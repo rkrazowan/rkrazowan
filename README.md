@@ -3,7 +3,7 @@
 <h3 align="center">Electrical & Electronic Engineer | Research-Oriented | Aspiring Graduate Researcher</h3>
 <img align="right" alt="Robotics Engineering" width ="400" src = "https://www.shutterstock.com/shutterstock/videos/3947134363/thumb/1.jpg?ip=x480">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabirrazowan&label=Profile%20views&color=0e75b6&style=flat" alt="kabirrazowan" /> </p>
+<p align="left"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt6dzJ5Z3c5cnJlZ3k3MWZ0dHg5NGIxdng4MThrdWkwbTN4MzZqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jwwGz6leB03miUnMg7/giphy.gif" alt="kabirrazowan" /> </p>
 
 - 🔭 I’m currently working on [Transformer less inverter](https://razowan-kobir-portfolio.lovable.app/project/transformer-inverter)
 
