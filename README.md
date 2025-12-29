@@ -1,7 +1,7 @@
 ![logo](https://github.com/rkrazowan/rkrazowan/blob/main/Blue%20Modern%20Professional%20Digital%20Marketing%20Background%20LinkedIn%20Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Razowan Kabir</h1>
 <h3 align="center">Electrical & Electronic Engineer | Research-Oriented | Aspiring Graduate Researcher</h3>
-<img align="right" alt="Robotics Engineering" width ="400" src = "https://github.com/rkrazowan/rkrazowan/blob/main/android-7872.gif">
+<img align="right" alt="Robotics Engineering" width ="400" src = "https://github.com/rkrazowan/rkrazowan/blob/main/earth-24613.gif">
 
 
 - 🔭 I’m currently working on [Transformer less inverter](https://razowan-kobir-portfolio.lovable.app/project/transformer-inverter)
